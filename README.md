@@ -1,7 +1,7 @@
 # Travel Memory
 
 1.	Backend Configuration:
-•	Clone the repository into local from https://github.com/UnpredictablePrashant/TravelMemory.
+#### Clone the repository into local from https://github.com/UnpredictablePrashant/TravelMemory.
 •	Kindly have a look into below screenshot for repository tree.
  ![image](https://github.com/himani0550/TravelMemory/assets/77041503/020dfa0a-7f91-4506-943e-4365a84d7570)
 
