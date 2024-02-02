@@ -29,14 +29,15 @@ proxy_pass http://my_server;
 #### 2.	Frontend and Backend communication:
 ##### •	Updated port details in url.js file to run application on port 3000.
 ##### •	Frontend is running on port 80 and reverse proxy is working fine.
-##### •	
-##### •	 
+##### •	![image](https://github.com/himani0550/TravelMemory/assets/77041503/20b8a6c3-7526-420a-b6d1-393aa1ca8074)
 ##### •	Frontend and backend both is communicating with each other. Kindly refer to below screenshot.
-##### •	 
-
+##### •	![image](https://github.com/himani0550/TravelMemory/assets/77041503/5833b980-4ba6-4f05-938d-baf746711209)
 ##### •	Trip details got saved successfully to database. Kindly refer below screenshot.
-##### •	 
-##### •	
- 
+##### •	![image](https://github.com/himani0550/TravelMemory/assets/77041503/0a08d28e-1f66-4264-a6e7-2f3658196d1d)
+##### •	![image](https://github.com/himani0550/TravelMemory/assets/77041503/3ad44c3b-6059-4a3a-8c73-85ce1770eebb)
 ##### •	Loadbalancers
-##### •
+##### • ![image](https://github.com/himani0550/TravelMemory/assets/77041503/2e849e7e-7ae8-4c74-89b6-82b75bf12d0a)
+##### • ![image](https://github.com/himani0550/TravelMemory/assets/77041503/e2750d2e-80b0-4f92-b692-d7ea87d0c63b)
+##### • ![image](https://github.com/himani0550/TravelMemory/assets/77041503/eea83cbe-5cc0-4480-a00b-07212adff841)
+
+
