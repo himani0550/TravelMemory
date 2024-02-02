@@ -1,12 +1,12 @@
 # Travel Memory
 
-1.	Backend Configuration:
-#### Clone the repository into local from https://github.com/UnpredictablePrashant/TravelMemory.
-•	Kindly have a look into below screenshot for repository tree.
+####  1.Backend Configuration:
+##### Clone the repository into local from https://github.com/UnpredictablePrashant/TravelMemory.
+##### Kindly have a look into below screenshot for repository tree.
  ![image](https://github.com/himani0550/TravelMemory/assets/77041503/020dfa0a-7f91-4506-943e-4365a84d7570)
 
 
-Command used to setup proxy server:
+##### Command used to setup proxy server:
 •	sudo apt-get update
 •	sudo apt-get install nginx -y
 •	sudo apt-get install nginx -y
@@ -26,7 +26,7 @@ proxy_pass http://my_server;
 •	sudo service nginx configtest
 •	sudo service nginx restart
 
-2.	Frontend and Backend communication:
+#### 2.	Frontend and Backend communication:
 •	Updated port details in url.js file to run application on port 3000.
 •	Frontend is running on port 80 and reverse proxy is working fine.
 •	
